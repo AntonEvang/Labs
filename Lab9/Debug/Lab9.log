@@ -1,0 +1,5 @@
+﻿  Lab9.cpp
+C:\Users\Владимир\Desktop\labsVVP\Lab9\Lab9.cpp(43,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Владимир\Desktop\labsVVP\Lab9\Lab9.cpp(44,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Владимир\Desktop\labsVVP\Lab9\Lab9.cpp(51,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Lab9.vcxproj -> C:\Users\Владимир\Desktop\labsVVP\Lab9\Debug\Lab9.exe
