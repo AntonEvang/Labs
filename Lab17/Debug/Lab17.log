@@ -1,0 +1,4 @@
+﻿  Lab17.cpp
+C:\Users\Владимир\Desktop\labsVVP\Lab17\Lab17.cpp(35,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Владимир\Desktop\labsVVP\Lab17\Lab17.cpp(100,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Lab17.vcxproj -> C:\Users\Владимир\Desktop\labsVVP\Lab17\Debug\Lab17.exe
