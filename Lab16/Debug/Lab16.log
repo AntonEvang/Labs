@@ -1,0 +1,5 @@
+﻿  Lab16.cpp
+C:\Users\Владимир\Desktop\labsVVP\Lab16\Lab16.cpp(33,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Владимир\Desktop\labsVVP\Lab16\Lab16.cpp(86,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Владимир\Desktop\labsVVP\Lab16\Lab16.cpp(102,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Lab16.vcxproj -> C:\Users\Владимир\Desktop\labsVVP\Lab16\Debug\Lab16.exe
