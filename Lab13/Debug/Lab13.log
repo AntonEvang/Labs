@@ -1,0 +1,9 @@
+﻿  Lab13.cpp
+C:\Users\Владимир\Desktop\labsVVP\Lab13\Lab13.cpp(9,2): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Владимир\Desktop\labsVVP\Lab13\Lab13.cpp(9,40): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Владимир\Desktop\labsVVP\Lab13\Lab13.cpp(20,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Владимир\Desktop\labsVVP\Lab13\Lab13.cpp(20,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Владимир\Desktop\labsVVP\Lab13\Lab13.cpp(23,11): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Владимир\Desktop\labsVVP\Lab13\Lab13.cpp(53,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Владимир\Desktop\labsVVP\Lab13\Lab13.cpp(67,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Lab13.vcxproj -> C:\Users\Владимир\Desktop\labsVVP\Lab13\Debug\Lab13.exe

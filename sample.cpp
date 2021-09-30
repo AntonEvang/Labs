@@ -34,6 +34,7 @@ int prob5()
 
 int main()
 {
+	setlocale(0, "rus");
 	int Problem_Number = 3228;
 	while (Problem_Number != 0)
 	{
