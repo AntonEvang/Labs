@@ -1,5 +1,0 @@
-﻿  lab12.cpp
-C:\Users\Владимир\Desktop\labsVVP\Lab12\lab12.cpp(130,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-C:\Users\Владимир\Desktop\labsVVP\Lab12\lab12.cpp(132,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\Владимир\Desktop\labsVVP\Lab12\lab12.cpp(134,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-  lab12.vcxproj -> C:\Users\Владимир\Desktop\labsVVP\Lab12\Debug\lab12.exe
